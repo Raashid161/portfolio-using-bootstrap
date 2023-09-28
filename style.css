@@ -81,6 +81,7 @@ button {
 }
 #about{
     background-color: bisque;
+    line-height: normal;
 }
 #education{
     background-color: darkolivegreen;
