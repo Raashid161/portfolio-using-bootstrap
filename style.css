@@ -99,6 +99,7 @@ main{
     font-weight: 200;
 }
 footer{
+    position: fixed;
     text-align: center;
     background-color: rgba(2, 2, 2, 0.658);;
     padding: 1rem;
